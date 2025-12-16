@@ -1,4 +1,4 @@
-# About-Mozah
+# About Mozah
 # 👋 Hi, I’m Mozah Hamad Alyammahi  
 
 🎓 11th Grade | Advanced Science Program @ ATS (Applied Technology Schools)  
@@ -31,4 +31,5 @@
 
 ## 📫 Connect With Me
 - GitHub: [@mozah0](https://github.com/mozah0)  
-- Email: m.ouza1@icloud.com  
+- Email: m.ouza1@icloud.com
+- Linkedin: www.linkedin.com/in/mozah-alyammahi-5b4537383
